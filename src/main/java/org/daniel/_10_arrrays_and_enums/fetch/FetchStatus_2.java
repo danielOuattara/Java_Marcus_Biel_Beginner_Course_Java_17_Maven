@@ -1,4 +1,4 @@
-package org.daniel._10_arrrays_and_enums.factory.fetch;
+package org.daniel._10_arrrays_and_enums.fetch;
 
 public enum FetchStatus_2 {
     STARTING(0), PROCESSING(1), COMPLETED(2), ERROR(3);

@@ -1,7 +1,7 @@
-package org.daniel._10_arrrays_and_enums.factory.person;
+package org.daniel._10_arrrays_and_enums.person;
 
 
-import org.daniel._10_arrrays_and_enums.factory.factory.NewPerson;
+import org.daniel._10_arrrays_and_enums.factory.NewPerson;
 
 public class Person {
     private NewPerson person_1;  // instance field

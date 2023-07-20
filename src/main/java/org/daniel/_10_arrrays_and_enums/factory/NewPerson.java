@@ -1,4 +1,4 @@
-package org.daniel._10_arrrays_and_enums.factory.factory;
+package org.daniel._10_arrrays_and_enums.factory;
 
 public class NewPerson {
 

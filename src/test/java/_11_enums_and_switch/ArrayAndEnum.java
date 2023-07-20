@@ -1,6 +1,6 @@
 package _11_enums_and_switch;
 
-import org.daniel._10_arrrays_and_enums.factory.fetch.FetchStatus;
+import org.daniel._10_arrrays_and_enums.fetch.FetchStatus;
 import org.daniel._11_enums_and_switch.fetch.FetchStatus_2;
 
 public class ArrayAndEnum {

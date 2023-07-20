@@ -1,6 +1,6 @@
 package _10_arrrays_and_enums;
 
-import org.daniel._10_arrrays_and_enums.factory.fetch.FetchStatus;
+import org.daniel._10_arrrays_and_enums.fetch.FetchStatus;
 
 public class ArrayAndEnum {
     static FetchStatus starting = FetchStatus.STARTING;

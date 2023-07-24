@@ -5,7 +5,7 @@ public enum FetchStatus_2 {
 
 
     private int i;
-    FetchStatus_2(int i) {
-        this.i = i;
+    FetchStatus_2(int i){
+    this.i = i;
     }
 }
